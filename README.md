@@ -1,4 +1,3 @@
-![panda1 (1)](https://user-images.githubusercontent.com/87390353/126659610-ea1b757c-41d9-4922-ad65-dad57187594a.jpg)
 <h1 align="center">Hi 👋, I'm Anushka Paul</h1>
 <h3 align="center">Exploring :)</h3>
 
