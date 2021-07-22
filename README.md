@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anushka Paul</h1>
 <h3 align="center">Exploring :)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pilipi-puu-puu&label=Profile%20views&color=0e75b6&style=flat" alt="pilipi-puu-puu" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pilipi-puu-puu&label=Profile%20views&color=eb3a34&style=flat" alt="pilipi-puu-puu" /> </p>
 
 - 🔭 I’m currently working on: [Online calculator](https://github.com/pilipi-puu-puu/Online-calculator)
 
@@ -9,7 +9,7 @@
 
 - 📫 Reach me: **anushkapaul02@gmail.com**
 
-- ⚡ Fun fact: **I do dance more than code;)**
+- ⚡ Fun fact: **I do dance more than code ;)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,6 +22,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pilipi-puu-puu&show_icons=true&locale=en&layout=compact" alt="pilipi-puu-puu" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pilipi-puu-puu&show_icons=true&locale=en" alt="pilipi-puu-puu" /></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pilipi-puu-puu&show_icons=true&locale=en" alt="pilipi-puu-puu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pilipi-puu-puu&" alt="pilipi-puu-puu" /></p>
