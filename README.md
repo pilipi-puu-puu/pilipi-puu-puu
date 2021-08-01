@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on: [Online calculator](https://github.com/pilipi-puu-puu/Online-calculator)
 
-- 🌱 I’m currently learning: **Web Development**
+- 🌱 I’m currently learning: **JavaScript**
 
 - 📫 Reach me: **anushkapaul02@gmail.com**
 
