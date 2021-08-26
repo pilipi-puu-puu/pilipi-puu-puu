@@ -3,7 +3,7 @@
 
    ## 🙋‍About Me
 
-- 🔭 I’m currently working on: [HoverBoard](https://github.com/pilipi-puu-puu/Hoverboard)
+- 🔭 I’m currently working on: [GWOC](https://gwoc.girlscript.tech/)
 
 - 🌱 I’m currently learning:  **JavaScript**
 
