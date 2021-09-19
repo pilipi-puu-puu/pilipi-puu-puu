@@ -29,9 +29,12 @@
 <br/>
 <br/>
 
-<h2 align="left">💬 Connect with me:</h2>
-<p align="left">
-<a href="https://www.linkedin.com/in/anushka-paul02/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/anushka-paul02" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/anushkaaa_20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/anushkaaa_20" height="30" width="40" /></a>
+![connect-with-me](https://user-images.githubusercontent.com/87390353/133924456-1fb6f8cd-c0bd-4bbe-a4d5-87eb7bcdc126.png)
+
+
+<p align="center">
+<a href="https://discordapp.com/users/Anushka Paul#3649/" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Anushka Paul#3649"/></a> <a href="https://www.linkedin.com/in/anushka-paul02/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="anushka-paul02_linkedIn"/></a> <a href="https://www.instagram.com/anu_sh_ka.05/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="anu_sh_ka.05" /></a>
+<br>
+<br>
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pilipi-puu-puu&label=Profile%20views&color=eb3a34&style=flat" alt="pilipi-puu-puu" /> </p>
+
