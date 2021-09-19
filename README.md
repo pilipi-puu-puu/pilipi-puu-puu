@@ -1,5 +1,6 @@
-<h1 align="center">Hola 👋, I'm Anushka Paul🐼</h1>
-<h3 align="center">Exploring :)</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hola+👋,+I'm+Anushka+Paul+🐼+;A+Student+👩‍🎓;ok,+no+more+talent+I+have!+😂;">
+</p>
 
    ## 🙋‍About Me
 
