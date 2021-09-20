@@ -4,7 +4,7 @@
 
    ## 🙋‍About Me
 
-- 🔭 I’m currently working on: [GWOC](https://gwoc.girlscript.tech/)
+- 🔭 I’m currently working on: [GWOC](https://github.com/pilipi-puu-puu/winter-of-contributing)
 
 - 🌱 I’m currently learning:  **JavaScript**
 
