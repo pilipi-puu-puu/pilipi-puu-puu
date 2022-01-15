@@ -4,7 +4,7 @@
 
    ## 🙋‍About Me
 
-- 🔭 I’m currently working on: [GWOC](https://github.com/pilipi-puu-puu/winter-of-contributing)
+- 🔭 I’m currently working on: [6Companies30DaysChallenge](https://github.com/pilipi-puu-puu/6companies30Days)
 
 - 🌱 I’m currently learning:  **JavaScript**
 
