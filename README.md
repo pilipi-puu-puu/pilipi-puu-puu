@@ -4,8 +4,6 @@
 
    ## 🙋‍About Me
 
-- 🔭 I’m currently working on: [6Companies30DaysChallenge](https://github.com/pilipi-puu-puu/6companies30Days)
-
 - 🌱 I’m currently learning:  **Java**
 
 - 📫 Reach me: **anushkapaul02@gmail.com**
