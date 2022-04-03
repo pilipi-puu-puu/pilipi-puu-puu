@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on: [6Companies30DaysChallenge](https://github.com/pilipi-puu-puu/6companies30Days)
 
-- 🌱 I’m currently learning:  **JavaScript**
+- 🌱 I’m currently learning:  **Java**
 
 - 📫 Reach me: **anushkapaul02@gmail.com**
 
@@ -34,7 +34,7 @@
 
 
 <p align="center">
-<a href="https://discordapp.com/users/Anushka Paul#3649/" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Anushka Paul#3649"/></a> <a href="https://www.linkedin.com/in/anushka-paul02/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="anushka-paul02_linkedIn"/></a> <a href="https://www.instagram.com/anu_sh_ka.05/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="anu_sh_ka.05" /></a>
+<a href="https://www.linkedin.com/in/anushka-paul02/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="anushka-paul02_linkedIn"/></a> <a href="https://www.instagram.com/anu_sh_ka.05/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="anu_sh_ka.05" /></a>
 <br>
 <br>
 </p>
