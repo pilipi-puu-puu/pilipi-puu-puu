@@ -37,8 +37,8 @@
   
 ## 📊 My Github Stats
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pilipi-puu-puu&show_icons=true&theme=dark&locale=en" alt="pilipi-puu-puu" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pilipi-puu-puu&theme=dark" alt="pilipi-puu-puu" /></p>
+ <p><img align="right" src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="100">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
   <a href="https://github.com/pilipi-puu-puu/github-readme-stats"><img alt="Anushka Paul'sTop Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pilipi-puu-puu&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 
@@ -51,9 +51,7 @@
 <br/>
 
 ![connect-with-me](https://user-images.githubusercontent.com/87390353/133924456-1fb6f8cd-c0bd-4bbe-a4d5-87eb7bcdc126.png)
-   <img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="70">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-
-
+  
 <p align="center">
 <a href="https://www.linkedin.com/in/anushka-paul02/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="anushka-paul02_linkedIn"/></a> <a href="https://www.instagram.com/anu_sh_ka.05/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="anu_sh_ka.05" /></a>
 <br>
