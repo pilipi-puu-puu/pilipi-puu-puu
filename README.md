@@ -51,7 +51,7 @@
 <br/>
 
 ![connect-with-me](https://user-images.githubusercontent.com/87390353/133924456-1fb6f8cd-c0bd-4bbe-a4d5-87eb7bcdc126.png)
-   <img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="90">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+   <img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="70">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 
 
 <p align="center">
