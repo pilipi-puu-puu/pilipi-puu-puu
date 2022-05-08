@@ -23,7 +23,7 @@
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
 <a href="https://html.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> </a>
 <a href="https://web.dev/learn/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-<a href="https://web.dev/learn/bootstrap/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
+<a href="https://getbootstrap.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
 <a href="https://www.cloudskillsboost.google/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/google-cloud.png"/> </a>
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://user-images.githubusercontent.com/87390353/167304498-6a13571b-f816-473b-ac35-d520d7e656fa.png"/> </a>
 
