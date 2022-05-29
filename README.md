@@ -7,7 +7,7 @@
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
-- 🔭 I’m currently working on [CrackYourInternship](https://github.com/pilipi-puu-puu/CrackYourInternship)
+- 🔭 I’m currently working on [GoogleCloudReady Facilitator Program](https://events.withgoogle.com/googlecloudready-facilitator-program/#content)
 
 - 🌱 I’m currently learning:  **Frontend Development**
 
