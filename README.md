@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning:  **Frontend Development**
 
-- 🗒️ My sample portfolio : [Portfolio](https://pilipi-puu-puu.github.io/my_portfolio/#contact)
+- 🗒️ My sample portfolio : [Portfolio](https://pilipi-puu-puu.github.io/my_portfolio/#home)
 
 - 📫 Reach me: **anushkapaul02@gmail.com**
 
