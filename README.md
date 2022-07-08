@@ -7,7 +7,7 @@
 <p><em> A Sophomore of <a href="https://aot.edu.in/">Academy of Technology</a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br></em></p>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
-- 🔭 I’m currently working on [GoogleCloudReady Facilitator Program](https://events.withgoogle.com/googlecloudready-facilitator-program/#content)
+- 🔭 I’m currently working on [Google Learn to earn](https://go.qwiklabs.com/learn-to-earn)
 
 - 🌱 I’m currently learning:  **Frontend Development**
 
