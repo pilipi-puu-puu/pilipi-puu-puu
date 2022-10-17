@@ -17,7 +17,8 @@
 - ⚡ Fun fact: **I do dance more than code ;)**
 
 ---
-
+## My Holopin badges :
+[![@anushka02's Holopin board](https://holopin.me/anushka02)](https://holopin.io/@anushka02)
 
 ## ✅ Languages and Tools:
 <a href="https://www.cprogramming.com/" target="_blank">  <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> </a>
