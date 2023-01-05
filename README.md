@@ -8,7 +8,7 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
 
-- 🌱 I’m currently learning:  **Frontend Development**
+- 🌱 I’m currently learning:  **Web Development**
 
 - 🗒️ My sample portfolio : [Portfolio](https://pilipi-puu-puu.github.io/my_portfolio/#home)
 
@@ -41,16 +41,16 @@
 <img src="https://raw.githubusercontent.com/trinib/trinib/output/github-contribution-grid-snake.svg" width="100%">
   
 ## 📊 My Github Stats
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pilipi-puu-puu&show_icons=true&theme=dark&locale=en" alt="pilipi-puu-puu" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pilipi-puu-puu&show_icons=true&theme=dark&locale=en" alt="pilipi-puu-puu" /></p> -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pilipi-puu-puu&theme=dark" alt="pilipi-puu-puu" /></p>
- <p><img align="right" src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="100">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-  <a href="https://github.com/pilipi-puu-puu/github-readme-stats"><img alt="Anushka Paul'sTop Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pilipi-puu-puu&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<!--  <p><img align="right" src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="100">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p> -->
+<!--   <a href="https://github.com/pilipi-puu-puu/github-readme-stats"><img alt="Anushka Paul'sTop Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pilipi-puu-puu&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 
 <br/>
-<br/>
+<br/>  -->
 
-<a href="https://github.com/pilipi-puu-puu/github-readme-activity-graph"><img alt="Anushka Paul's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=pilipi-puu-puu&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<!-- <a href="https://github.com/pilipi-puu-puu/github-readme-activity-graph"><img alt="Anushka Paul's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=pilipi-puu-puu&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
 
 <br/>
 <br/>
