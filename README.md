@@ -4,13 +4,13 @@
 </h2></p>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <a> 
-<p><em> A junior of <a href="https://aot.edu.in/">Academy of Technology</a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br></em></p>
+<p><em> A 3rd Year Student of <a href="https://aot.edu.in/">Academy of Technology</a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br></em></p>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
 
 - 🌱 I’m currently learning:  **Web Development**
 
-- 🗒️ My sample portfolio : [Portfolio](https://pilipi-puu-puu.github.io/my_portfolio/#home)
+- 🗒️ My sample portfolio : [Portfolio](https://anushkapaul02.netlify.app/)
 
 - 📫 Reach me: **anushkapaul02@gmail.com**
 
@@ -28,29 +28,26 @@
 <a href="https://www.w3schools.com/js/" target="blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
 <a href="https://reactjs.org/" target="blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
 <a href="https://getbootstrap.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
+<a href="https://www.cprogramming.com/" target="_blank">  <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
 <a href="https://www.cloudskillsboost.google/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/google-cloud.png"/> </a>
 <a href="https://www.tutorialspoint.com/unix/shell_scripting.htm" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/ssh.png"/> </a>
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://user-images.githubusercontent.com/87390353/167304498-6a13571b-f816-473b-ac35-d520d7e656fa.png"/> </a>
 
 
 
-<!--🐍💬SNAKETITLE / 🌐WEBSITE: https://textanim.com/ -->
 <p align="center">
 <img src="https://i.imgur.com/x1KbuCq.gif" width="500">
-<!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
-<img src="https://raw.githubusercontent.com/trinib/trinib/output/github-contribution-grid-snake.svg" width="100%">
   
 ## 📊 My Github Stats
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pilipi-puu-puu&show_icons=true&theme=dark&locale=en" alt="pilipi-puu-puu" /></p> -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pilipi-puu-puu&theme=dark" alt="pilipi-puu-puu" /></p>
-<!--  <p><img align="right" src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="100">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p> -->
-<!--   <a href="https://github.com/pilipi-puu-puu/github-readme-stats"><img alt="Anushka Paul'sTop Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pilipi-puu-puu&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+   
   <br/>
+	 <a href="https://github.com/pilipi-puu-puu/github-readme-stats"><img alt="Anushka's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pilipi-puu-puu&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+ 	<a href="https://github.com/pilipi-puu-puu/github-readme-stats"><img alt="Anushka's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pilipi-puu-puu&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+ <br/>
 
-<br/>
-<br/>  -->
+ <br/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pilipi-puu-puu&theme=dark" alt="pilipi-puu-puu" /></p>
 
-<!-- <a href="https://github.com/pilipi-puu-puu/github-readme-activity-graph"><img alt="Anushka Paul's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=pilipi-puu-puu&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
 
 <br/>
 <br/>
@@ -64,8 +61,6 @@
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pilipi-puu-puu&label=Profile%20views&color=eb3a34&style=flat" alt="pilipi-puu-puu" /> </p>
 <div align="center">
-
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <br />
 
 
