@@ -6,15 +6,9 @@
 <a> 
 <p><em> A final Year Student of <a href="https://aot.edu.in/">Academy of Technology</a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br></em></p>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
-
-- 🌱 I’m currently learning:  **Machine Learning**
-
 - 🗒️ My sample portfolio : [Portfolio](https://anushkapaul02.netlify.app/)
 
 - 📫 Reach me: **anushkapaul02@gmail.com**
-
-- ⚡ Fun fact: **I do dance more than code ;)**
 
 ---
 ## My Holopin badges :
@@ -55,7 +49,7 @@
 ![connect-with-me](https://user-images.githubusercontent.com/87390353/133924456-1fb6f8cd-c0bd-4bbe-a4d5-87eb7bcdc126.png)
   
 <p align="center">
-<a href="https://www.linkedin.com/in/anushka-paul02/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="anushka-paul02_linkedIn"/></a> <a href="https://www.instagram.com/anu_sh_ka.05/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="anu_sh_ka.05" /></a>
+<a href="https://www.linkedin.com/in/anushka-paul02/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="anushka-paul02_linkedIn"/></a> <a href="https://x.com/anushkapaul025" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-E4405F?style=for-the-badge&logo=twitter&logoColor=white" alt="anushkapaul025" /></a>
 <br>
 <br>
 </p>
