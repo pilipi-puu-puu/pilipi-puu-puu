@@ -6,7 +6,7 @@
 <a> 
 <p><em> A final Year Student of <a href="https://aot.edu.in/">Academy of Technology</a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br></em></p>
 
-- 🗒️ My sample portfolio : [Portfolio](https://anushkapaul02.netlify.app/)
+- 🗒️ My portfolio : [Portfolio](https://anushkapaul05.netlify.app/)
 
 - 📫 Reach me: **anushkapaul02@gmail.com**
 
