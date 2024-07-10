@@ -4,7 +4,7 @@
 </h2></p>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <a> 
-<p><em> A 3rd Year Student of <a href="https://aot.edu.in/">Academy of Technology</a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br></em></p>
+<p><em> A final Year Student of <a href="https://aot.edu.in/">Academy of Technology</a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br></em></p>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
 
